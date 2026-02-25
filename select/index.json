@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "歯車",
+  "base_artist": "幸祜",
+  "createdAt": "2026-02-25T18:21:14.438743Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "歯車",
+      "artist": "幸祜/花譜",
+      "has_synced": true,
+      "path": "select/01_歯車_幸祜_花譜.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "歯車",
+      "artist": "幸祜",
+      "has_synced": true,
+      "path": "select/02_歯車_幸祜.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "歯車",
+      "artist": "KOKO",
+      "has_synced": true,
+      "path": "select/03_歯車_KOKO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "歯車",
+      "artist": "SEMENTOS",
+      "has_synced": false,
+      "path": "select/04_歯車_SEMENTOS.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "歯車",
+      "artist": "幸祜, 花譜, V.W.P",
+      "has_synced": false,
+      "path": "select/pl_01_歯車_幸祜,_花譜,_V.W.P.txt"
+    }
+  ]
+}
